@@ -1,0 +1,15 @@
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\udpReceive.exe
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\udpReceive.deps.json
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\udpReceive.runtimeconfig.json
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\udpReceive.dll
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\udpReceive.pdb
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.csproj.AssemblyReference.cache
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.AssemblyInfoInputs.cache
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.AssemblyInfo.cs
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.csproj.CoreCompileInputs.cache
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.dll
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\refint\udpReceive.dll
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.pdb
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\udpReceive.genruntimeconfig.cache
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\obj\Release\net6.0\ref\udpReceive.dll

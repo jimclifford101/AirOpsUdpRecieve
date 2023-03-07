@@ -1,0 +1,5 @@
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\publish\udpReceive.exe
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\publish\udpReceive.dll
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\publish\udpReceive.deps.json
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\publish\udpReceive.runtimeconfig.json
+C:\Temp\BlackSwift\udpBlackSwift\udpRecieve\bin\Release\net6.0\publish\udpReceive.pdb
