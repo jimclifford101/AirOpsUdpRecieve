@@ -17,7 +17,7 @@ namespace udplisten
         {
 
             Console.WriteLine("UDP Receive Started");
-            Console.WriteLine("");           
+            Console.WriteLine("");          
             fUdpReceive();
 
 
@@ -28,6 +28,7 @@ namespace udplisten
 
             bool done = false;
 
+            // AirOps listening for UAS IWG on Port: 10645
             int listenPort = 10645;
 
             using(var listener = new UdpClient(listenPort))
@@ -40,7 +41,7 @@ namespace udplisten
                     //Console.WriteLine("Received broadcast message from client {0}", listenEndPoint.ToString());
 
                     Console.WriteLine("Msg Received:");
-                    Console.WriteLine(Encoding.ASCII.GetString(receivedData)); 
+                    Console.WriteLine(Encoding.ASCII.GetString(receivedData)); //should be IWG String sent from above client
                     Console.WriteLine(" ");
                 }
             }
